@@ -31,6 +31,11 @@ REPOSITORIES: Dict[str, Repository] = {
         commit="89407424edfc22faceaedcd7c3ea2b7947cbbb2c",
         cache_path="ability_hand_api",
     ),
+    "agibot_x1_description": Repository(
+        url="https://github.com/lucasngoo/agibot_x1_train.git",
+        commit="6f4b59516e3e6dfe5fdc3b834f5f8343c4c62c1d",
+        cache_path="agibot_x1_description",
+    ),
     "anymal_b_simple_description": Repository(
         url="https://github.com/ANYbotics/anymal_b_simple_description.git",
         commit="988b5df22b84761bdf08111b1c2ccc883793f456",
