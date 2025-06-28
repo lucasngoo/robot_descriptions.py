@@ -33,7 +33,7 @@ REPOSITORIES: Dict[str, Repository] = {
     ),
     "agibot_x1_description": Repository(
         url="https://github.com/lucasngoo/agibot_x1_train.git",
-        commit="5895bc9979aa25e27a0459b478e1ab556b45bb84",
+        commit="7ed439b5e062da31d757e90fb3a666e640eaeab5",
         cache_path="agibot_x1_description",
     ),
     "anymal_b_simple_description": Repository(
